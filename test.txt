@@ -1,0 +1,29 @@
+transfers - transfer window tab
+leagues: by id, by country id, search by name, 
+fixtures: by id, by, search by name
+commentary and line up under each fixture
+
+## endpoints needed
+leagues
+fixtures - latest fixtures
+transfers - latest transfers
+squad - team squad by team id
+
+www.scorebrat.com/video-api/v3/feed/?token=apikey
+
+www.scorebrat.com/video-api/v3/competition/england-premier-league/?token=apikey
+
+italy-seriea
+spain-la-liga
+germany-bundesliga
+france-ligue-1
+
+www.scorebrat.com/video-api/v3/team/real-madrid/?token=apikey
+
+barcelona
+arsenal
+chelsea
+liverpool
+manchester-city
+manchester-united
+
